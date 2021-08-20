@@ -2,7 +2,7 @@ import './App.css';
 import Header from './Components/Header';
 import Home from './Components/Home'
 import Checkout from './Components/Checkout';
-import { BrowserRouter ,Switch,Route,Link } from "react-router-dom"
+import { BrowserRouter ,Switch,Route } from "react-router-dom"
 
 function App() {
   return (
